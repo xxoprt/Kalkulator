@@ -1,3 +1,4 @@
+#!/bin/python2
 import os
 os.system('clear')
 
